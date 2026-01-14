@@ -256,13 +256,7 @@ This project is open source and available for educational purposes.
 
 ---
 
-## 📧 Contact
 
-**GitHub**: [@MustafaKocamann](https://github.com/MustafaKocamann)
-
-**Maintainer**: Machine Learning Engineer specializing in time series analysis and deep learning  
-**Last Updated**: January 2026  
-**Status**: ✅ Active
 
 ---
 
