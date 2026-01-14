@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model files (keep small models, ignore if needed)
+# *.pt
+# *.pth
+# *.h5
+
+# Large data files (GitHub limit: 100MB)
+# Processed/preprocessed data
+*.npy
+
+# Large raw datasets
+transformer electricity consumption estimation/household_power_consumption.txt
+human activity detection/UCI HAR Dataset/train/X_train.txt
+human activity detection/UCI HAR Dataset/test/X_test.txt
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
